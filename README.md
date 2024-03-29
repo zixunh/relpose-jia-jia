@@ -1,6 +1,6 @@
 # Code for RelPose++
 
-
+Added preprocessing codes for co3d subset.
 
 [[`arXiv`](https://arxiv.org/abs/2305.04926)]
 [[`Colab`](https://colab.research.google.com/drive/1rbaauApqEdgNAzYX5yMn2WnC4yYjspPz?usp=sharing)]
